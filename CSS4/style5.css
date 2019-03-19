@@ -1,0 +1,9 @@
+h1 {
+    font-family:Arial;
+    /*tahoma, sans-serif,*/
+    font-style:italic;
+    /*oblique, normal,*/
+    font-weight:100;
+    /*100-900*/
+    color:forestgreen;
+}

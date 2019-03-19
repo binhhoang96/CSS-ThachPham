@@ -1,0 +1,10 @@
+.trangtri{
+    text-align: right;
+    /*left-center-justify*/
+    text-decoration: overline;
+    /*none-underline-line-throught*/
+    text-indent: 100px;
+    text-shadow: blue 2px 3px 4px;
+    text-transform: capitalize;/*in hoa chư cai dầu*/
+    /*uppercase,lowercase,normal*/
+}
